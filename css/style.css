@@ -1,0 +1,444 @@
+/********************************************  General *******************************/
+
+.panel .panel-body {position:relative;}
+
+a.wooclassement-id-relation-plugin-section {color:#bf0d0d;font-size:14px;}
+
+.wooclassement-paragraphe {font-size:16px}
+
+/************************************* Custom Visual CSS  *******************************/
+
+.woocommerceclassementdix {
+  height:10px;
+}
+
+.woocommerceclassementtrente {
+  height:30px;
+}
+
+.woocommerceclassementcinquante {
+  height:45px;
+}
+
+.via-woocommerce-classement-clear {
+  clear:both;
+}
+
+/***************************************** Custom Titles  *******************************/
+
+.title-plugin {
+  text-transform:uppercase;
+  font-size:30px;
+}
+
+/********************************************  Google Maps *******************************/
+
+.woocl-customers-online {
+  position:absolute;
+  right:7%;
+  background:#2f353f;
+  z-index:5;
+  padding:10px;
+  color:#ffffff;
+  font-size:12px;
+}
+
+.woocl-whitemap {
+  padding:10px;
+  background:#ffffff;
+}
+
+
+/******************************************* Tables *************************************/
+.md-content th, .md-content tr  {
+  text-align:center
+}
+
+.dtsb-searchBuilder {clear:both;margin-top:50px;z-index:5000; background:#dddddd; position:relative;padding:50px 0}
+.dtb-popover-close {position:absolute;z-index:6000;top:0;left:50%;margin:0 auto;background:orange;color:white;display:block;padding:5px 10px;cursor: pointer;}
+
+/*******************************************  CSS Options *******************************/
+
+.toplevel_page_via-woocommerce-classement ul.wp-submenu-wrap
+ {
+  display:none !important;
+} 
+
+.options-via-woocommerce-classement-wrap .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border-top: 1px solid #E3E5E6;
+    font-size: 15px;
+	text-align: center;
+}
+
+.successModal {
+	display: block;
+	padding:15px 10px 10px 10px;
+	background-color:#113f59;
+	z-index:1002;
+	color:#ffffff;
+}
+
+/************************** 2.2 datatable-buttons_paginate span ************************/
+
+div.dataTables_paginate {
+  margin:20px
+}
+
+div.dataTables_paginate span a {
+  display:inline;
+  padding: 5px 10px;
+  margin: 0 3px;
+  background-color: #fff;
+}
+
+div.dataTables_paginate span a.current {
+  background-color: #1c2b36;
+  border-color: #1c2b36;
+  color:white;
+}
+
+.dt-button {
+  border:none;
+  padding:5px 10px;
+}
+
+div.datatable-buttons_filter  {
+  text-align:right;
+}
+
+.dt-buttons  {
+  margin-right:10px;
+}
+
+/*table {
+  margin: 0 auto;
+  width: 100%;
+  clear: both;
+  border-collapse: collapse;
+  table-layout: fixed; 
+  word-wrap:break-word;
+}*/
+
+nav.nav-tabs + .tab-content, .tabs-vertical-env .tab-content {
+    width: 100%;
+}
+
+.nav.nav-tabs > li.active > a, .tabs-vertical-env .nav.tabs-vertical li.active > a {
+    border: 0;
+    background-color: #ea7024;
+	color:#fff;
+}
+
+/*************************************  Boutons CSS woocommerceinputcheck *******************************/
+
+.woocommerceinputcheck {
+  position: relative;
+  display: block;
+  vertical-align: top;
+  width: 100px;
+  height: 30px;
+  padding: 3px;
+  margin: 0 10px 10px 0;
+  background: linear-gradient(to bottom, #eeeeee, #FFFFFF 25px);
+  background-image: -webkit-linear-gradient(top, #eeeeee, #FFFFFF 25px);
+  border-radius: 18px;
+  box-shadow: inset 0 -1px white, inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+}
+.woocommerceinputcheck-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.woocommerceinputcheck-label {
+  position: relative;
+  display: block;
+  height: inherit;
+  font-size: 10px;
+  text-transform: uppercase;
+  background: #eceeef;
+  border-radius: inherit;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.15);
+}
+.woocommerceinputcheck-label:before, .woocommerceinputcheck-label:after {
+  position: absolute;
+  top: 50%;
+  margin-top: -.5em;
+  line-height: 1;
+  -webkit-transition: inherit;
+  -moz-transition: inherit;
+  -o-transition: inherit;
+  transition: inherit;
+}
+.woocommerceinputcheck-label:before {
+  content: attr(data-off);
+  right: 11px;
+  color: #aaaaaa;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
+}
+.woocommerceinputcheck-label:after {
+  content: attr(data-on);
+  left: 11px;
+  color: #FFFFFF;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+}
+.woocommerceinputcheck-input:checked ~ .woocommerceinputcheck-label {
+  background: #ea7024;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15), inset 0 0 3px rgba(0, 0, 0, 0.2);
+}
+.woocommerceinputcheck-input:checked ~ .woocommerceinputcheck-label:before {
+  opacity: 0;
+}
+.woocommerceinputcheck-input:checked ~ .woocommerceinputcheck-label:after {
+  opacity: 1;
+}
+.woocommerceinputcheck-handle {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 28px;
+  height: 28px;
+  background: linear-gradient(to bottom, #FFFFFF 40%, #f0f0f0);
+  background-image: -webkit-linear-gradient(top, #FFFFFF 40%, #f0f0f0);
+  border-radius: 100%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+.woocommerceinputcheck-handle:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -6px 0 0 -6px;
+  width: 12px;
+  height: 12px;
+  background: linear-gradient(to bottom, #eeeeee, #FFFFFF);
+  background-image: -webkit-linear-gradient(top, #eeeeee, #FFFFFF);
+  border-radius: 6px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.02);
+}
+.woocommerceinputcheck-input:checked ~ .woocommerceinputcheck-handle {
+  left: 74px;
+  box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+/* Transition
+	========================== */
+.woocommerceinputcheck-label, .woocommerceinputcheck-handle {
+  transition: All 0.3s ease;
+  -webkit-transition: All 0.3s ease;
+  -moz-transition: All 0.3s ease;
+  -o-transition: All 0.3s ease;
+}
+
+/*************************************  Includes Products *******************************/
+
+.woocl-category {
+  background:#2f353f;
+  color:#ffffff;
+  margin:5px;
+  padding:20px;
+}
+
+ul.pro-menu, ul.extended {
+  top:100%!important;
+}
+
+/*************************************  Navigation  *******************************/
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #ea7024;
+}
+
+.badge.up {
+    position: relative;
+    top: -16px!important;
+    padding: 3px 6px;
+    margin-left: -10px!important;
+}
+
+/*************************************  TABS  *******************************/
+
+
+.card-box {
+    /*background-color: #fff;*/
+    /*padding: 1.25rem;*/
+    /*-webkit-box-shadow: 0 1px 2px 0 rgba(33,37,41,.1);*/
+    /*box-shadow: 0 1px 2px 0 rgba(33,37,41,.1);*/
+    margin-bottom: 24px;
+    border-radius: .25rem;
+	/*border:1px solid rgba(33,37,41,.1);*/
+}
+
+
+/*************************************  TOOLTIP  *******************************/
+
+.woocltooltip {
+    display:inline-block;
+    position:absolute;
+    /*border-bottom:1px dotted #666;*/
+    text-align:left;
+	top: 10px;
+	right: 15px;
+}
+
+.woocltooltip {
+    cursor:pointer;
+}
+
+.woocltooltip .top {
+    min-width:200px; 
+    top:-20px;
+    left:50%;
+    transform:translate(-50%, -100%);
+    padding:10px 20px;
+    color:#444444;
+    background-color:#EEEEEE;
+    font-weight:normal;
+    font-size:13px;
+    border-radius:8px;
+    position:absolute;
+    z-index:99999999;
+    box-sizing:border-box;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+    display:none;
+}
+
+.woocltooltip:hover .top {
+    display:block;
+}
+
+.woocltooltip .top i {
+    position:absolute;
+    top:100%;
+    left:50%;
+    margin-left:-12px;
+    width:24px;
+    height:12px;
+    overflow:hidden;
+}
+
+.woocltooltip .top i::after {
+    content:'';
+    position:absolute;
+    width:12px;
+    height:12px;
+    left:50%;
+    transform:translate(-50%,-50%) rotate(45deg);
+    background-color:#EEEEEE;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+
+
+.woocltooltipsearchform {
+    display:inline-block;
+    position:absolute;
+    /*border-bottom:1px dotted #666;*/
+    text-align:left;
+	top: 0px;
+	right: 15px;
+}
+
+.woocltooltipsearchform {
+    cursor:pointer;
+}
+
+.woocltooltipsearchform .top {
+    min-width:200px; 
+    top:-20px;
+    left:50%;
+    transform:translate(-50%, -100%);
+    padding:10px 20px;
+    color:#444444;
+    background-color:#EEEEEE;
+    font-weight:normal;
+    font-size:13px;
+    border-radius:8px;
+    position:absolute;
+    z-index:99999999;
+    box-sizing:border-box;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+    display:none;
+}
+
+.woocltooltipsearchform:hover .top {
+    display:block;
+}
+
+.woocltooltipsearchform .top i {
+    position:absolute;
+    top:100%;
+    left:50%;
+    margin-left:-12px;
+    width:24px;
+    height:12px;
+    overflow:hidden;
+}
+
+.woocltooltipsearchform .top i::after {
+    content:'';
+    position:absolute;
+    width:12px;
+    height:12px;
+    left:50%;
+    transform:translate(-50%,-50%) rotate(45deg);
+    background-color:#EEEEEE;
+    box-shadow:0 1px 8px rgba(0,0,0,0.5);
+}
+
+/*************************************  FORMULAIRE  *******************************/
+
+
+.formulaire-wooclassement .form-field input[type="email"], .form-field input[type="text"], .form-field input[type="tel"] {
+    font-size: 23px;
+    line-height: 125%;
+    height: 40px!important;
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding: 0.5em;
+    border: 1px solid transparent;
+    background-color: rgba(238,238,238,0.6) !important;
+}
+
+.formulaire-wooclassement .form-field textarea {
+    font-size: 23px;
+    line-height: 125%;
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding: 0.5em;
+    border: 1px solid transparent;
+    background-color: rgba(238,238,238,0.6) !important;
+}
+
+/*************************************  SOCIAL  *******************************/
+
+
+.options-via-woocommerce-classement-reseaux-sociaux {
+    background-color: #ea7024!important;
+	text-align:center;
+}
+
+.options-via-woocommerce-classement-reseaux-sociaux a {
+  background-color: #ea7024;
+  border-color: #ea7024;
+  color:white;
+  padding:10px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.wooclplugins-card {  min-height: 350px;width: 100%;border-radius: 10px;border: 1px solid #C0C0C0;opacity: 1;transition: opacity 1s;margin-bottom:30px;font-family: 'Inter', sans-serif;padding:20px;position:relative;}
+.wooclplugins-span {display:inline-block;background:#ea7024;padding:7px 15px;color:white;font-size:15px}
+.wooclplugins-image {position:absolute;top:10px;right:20px;}
+.wooclplugins-image img {border-radius: 50%;width:50px;height:50px;}
+.wooclplugins-card .rouge-bouton a {color:white!important;}
+.rouge-bouton button, .rouge-bouton a {background-color: #d83b2b !important;border: 0 !important;padding: 7px 15px !important;font-size: 15px !important;margin-right: 10px;display:inline-block}
+.wooclplugins-sidebar h3{background:#ea7024;color:white;padding:15px 0;margin:0}
+.wooclplugins-sidebar {background:#eeeeee;padding:0 0 50px 0;text-align: center;} 
+.wooclplugins-sidebar p {font-family: 'Inter', sans-serif;font-size: 17px;}
+.wooclplugins-20 {height:20px} 
+.wooclplugins-30 {height:30px} 
+.wooclplugins-card p{ font-family: 'Inter', sans-serif;font-size:17px}
+hr.viausersloghr {border-top: 2px solid #bbb;}

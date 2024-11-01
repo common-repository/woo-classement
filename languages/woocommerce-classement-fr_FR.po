@@ -1,0 +1,1417 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Project-Id-Version: Via Woocommerce Classement\n"
+"POT-Creation-Date: 2018-02-08 22:29+0000\n"
+"PO-Revision-Date: 2018-05-21 12:40+0000\n"
+"Last-Translator: Themespress <info@themespress.ca>\n"
+"Language-Team: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fr_FR"
+
+#: inc/content/content-general.php:59
+msgid "Performance -> Others"
+msgstr "Performance -> Autres"
+
+#: woocommerce-classement.php:38
+msgid "\">WooCommerce</a> and activate the plugin"
+msgstr "\">WooCommerce</a> and activate the plugin"
+
+#: includes/title.php:4
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: includes/title.php:9 includes/navigation.php:53
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: includes/title.php:14 includes/navigation.php:61
+#: inc/options/class-woocommerce-classement-options.php:595
+#: inc/content/content-graphs.php:970 inc/content/content-graphs.php:1052
+#: inc/content/content-graphs.php:1124 inc/content/content-queries.php:20
+#: inc/content/content-general.php:107
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:20
+msgid "Customers"
+msgstr "Clients"
+
+#: includes/title.php:19 includes/navigation.php:68
+#: inc/content/content-graphs.php:1053 inc/content/content-graphs.php:1125
+#: inc/content/content-queries.php:26
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:26
+msgid "Orders"
+msgstr "Commandes"
+
+#: includes/title.php:24 includes/navigation.php:74
+#: inc/options/class-woocommerce-classement-options.php:601
+#: inc/content/content-products.php:21 inc/content/content-queries.php:32
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:56
+msgid "Products"
+msgstr "Produits"
+
+#: includes/title.php:29 includes/navigation.php:80
+#: inc/content/content-coupons.php:19 inc/content/content-graphs.php:1054
+#: inc/content/content-graphs.php:1126 inc/content/content-queries.php:50
+msgid "Coupons"
+msgstr "Coupons"
+
+#: includes/title.php:34 includes/navigation.php:86
+#: inc/content/content-graphs.php:1055 inc/content/content-graphs.php:1127
+#: inc/content/content-queries.php:44
+msgid "Shipping"
+msgstr "Livraison"
+
+#: includes/title.php:39
+msgid "Paiements"
+msgstr "Paiements"
+
+#: includes/title.php:44 includes/navigation.php:99
+#: inc/options/class-woocommerce-classement-options.php:607
+#: inc/content/content-graphs.php:971 inc/content/content-queries.php:38
+#: inc/content/content-vendors.php:21
+msgid "Vendors"
+msgstr "Vendeurs"
+
+#: includes/title.php:49 includes/navigation.php:109
+msgid "Queries"
+msgstr "Requêtes"
+
+#: includes/title.php:54 includes/navigation.php:115
+#: includes/navigation.php:135
+msgid "Options"
+msgstr "Options"
+
+#: includes/title.php:59 includes/navigation.php:121
+msgid "Help"
+msgstr "Aide"
+
+#: includes/nav-header.php:20 includes/nav-header.php:27
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: includes/nav-header.php:28
+msgid "Version"
+msgstr "Version"
+
+#: includes/nav-header.php:80
+msgid "Notifications"
+msgstr "Notifications"
+
+#: includes/nav-header.php:85
+msgid "User Loggued"
+msgstr "Clients connectés"
+
+#: includes/navigation.php:46
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: includes/navigation.php:92
+msgid "Payments"
+msgstr "Paiements"
+
+#: inc/codes/codes.php:36
+msgid "Orders By ID Product"
+msgstr "Commandes par ID produit "
+
+#: inc/codes/codes.php:76
+#: inc/includes/class-woocommerce-classement-queries.php:187
+#: inc/includes/class-woocommerce-classement-orders.php:723
+#: inc/includes/class-woocommerce-classement-orders.php:782
+#: inc/includes/class-woocommerce-classement-orders.php:844
+#: inc/includes/class-woocommerce-classement-orders.php:934
+msgid "Order ID"
+msgstr "ID Commande"
+
+#: inc/codes/codes.php:77
+msgid "E-mail"
+msgstr "Courriel"
+
+#: inc/codes/codes.php:78
+msgid "Tel"
+msgstr "Tel"
+
+#: inc/codes/codes.php:79
+msgid "State"
+msgstr "État / Province"
+
+#: inc/codes/codes.php:81
+#: inc/includes/class-woocommerce-classement-queries.php:190
+msgid "Product"
+msgstr "Produit"
+
+#: inc/codes/codes.php:82
+#: inc/includes/class-woocommerce-classement-queries.php:194
+msgid "Price"
+msgstr "Prix"
+
+#: inc/codes/codes.php:83
+msgid "Status"
+msgstr "Statut"
+
+#: inc/codes/codes.php:178
+msgid "No orders currently"
+msgstr "Aucune commande actuellement"
+
+#: inc/codes/codes.php:334
+#: inc/includes/class-woocommerce-classement-queries.php:28
+#: inc/includes/class-woocommerce-classement-queries.php:90
+#: inc/includes/class-woocommerce-classement-queries.php:188
+#: inc/includes/class-woocommerce-classement-orders.php:935
+msgid "Date"
+msgstr "Date"
+
+#: inc/codes/codes.php:335
+#: inc/includes/class-woocommerce-classement-queries.php:29
+#: inc/includes/class-woocommerce-classement-queries.php:91
+msgid "Product ID"
+msgstr "ID Produit"
+
+#: inc/codes/codes.php:336
+#: inc/includes/class-woocommerce-classement-queries.php:30
+#: inc/includes/class-woocommerce-classement-queries.php:92
+#: inc/includes/class-woocommerce-classement-queries.php:639
+#: inc/includes/class-woocommerce-classement-queries.php:759
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: inc/codes/codes.php:337
+#: inc/includes/class-woocommerce-classement-queries.php:31
+#: inc/includes/class-woocommerce-classement-queries.php:93
+msgid "Product Type"
+msgstr "Type de produit"
+
+#: inc/codes/codes.php:356
+#: inc/includes/class-woocommerce-classement-queries.php:47
+#: inc/includes/class-woocommerce-classement-queries.php:130
+msgid "Variable Product"
+msgstr "Produit variable"
+
+#: inc/codes/codes.php:360
+#: inc/includes/class-woocommerce-classement-queries.php:50
+#: inc/includes/class-woocommerce-classement-queries.php:133
+msgid "Simple Product"
+msgstr "Produit simple"
+
+#: inc/codes/codes.php:491
+msgid "Finished sales"
+msgstr "Ventes finies"
+
+#: inc/codes/codes.php:528
+#: inc/options/class-woocommerce-classement-options.php:589
+#: inc/content/content-graphs.php:598 inc/content/content-graphs.php:650
+#: inc/content/content-statistics.php:27
+msgid "Objectives"
+msgstr "Objectifs"
+
+#: inc/codes/codes.php:541
+msgid "Featured / In Stock"
+msgstr "En vedette / En stock"
+
+#: inc/codes/codes.php:548
+msgid "Featured / Out Stock"
+msgstr "En vedette / Sans stock"
+
+#: inc/codes/codes.php:555
+msgid "In Stock"
+msgstr "En stock"
+
+#: inc/codes/codes.php:562
+msgid "Out Stock"
+msgstr "Rupture de stock"
+
+#: inc/codes/codes.php:567
+msgid "Best Ranked"
+msgstr "Meilleur classé"
+
+#: inc/codes/codes.php:569
+msgid "Coming soon"
+msgstr "Arrive bientôt"
+
+#: inc/codes/codes.php:779 inc/content/content-graphs.php:19
+#: inc/content/content-graphs.php:124 inc/content/content-graphs.php:238
+#: inc/content/content-graphs.php:350 inc/content/content-graphs.php:866
+#: inc/content/content-graphs.php:867 inc/content/content-graphs.php:1051
+#: inc/content/content-graphs.php:1123 inc/content/content-customers.php:113
+#: inc/content/content-general.php:88 inc/content/content-general.php:180
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:14
+msgid "Sales"
+msgstr "Ventes"
+
+#: inc/codes/codes.php:784 inc/codes/codes.php:802
+msgid "Published list"
+msgstr "Liste publiée"
+
+#: inc/codes/codes.php:787 inc/codes/codes.php:819
+msgid "Pending list"
+msgstr "Liste en attente"
+
+#: inc/views/woocommerce-classement-view-users-online.php:63
+msgid "First Name"
+msgstr "Prénom"
+
+#: inc/views/woocommerce-classement-view-users-online.php:64
+msgid "Last Name"
+msgstr "Nom"
+
+#: inc/views/woocommerce-classement-view-users-online.php:65
+#: inc/includes/class-woocommerce-classement-vendors.php:182
+#: inc/includes/class-woocommerce-classement-vendors.php:238
+#: inc/includes/class-woocommerce-classement-queries.php:320
+#: inc/includes/class-woocommerce-classement-queries.php:381
+#: inc/includes/class-woocommerce-classement-queries.php:558
+msgid "City"
+msgstr "Ville"
+
+#: inc/views/woocommerce-classement-view-users-online.php:66
+msgid "Billing Country"
+msgstr "Pays facturation"
+
+#: inc/includes/class-woocommerce-classement-sales.php:425
+#: inc/includes/class-woocommerce-classement-orders.php:936
+msgid "Country"
+msgstr "Pays"
+
+#: inc/includes/class-woocommerce-classement-sales.php:426
+msgid "Total Sales by Country"
+msgstr "Total des ventes / Pays"
+
+#: inc/includes/class-woocommerce-classement-sales.php:427
+msgid "Total Sales all Countries"
+msgstr "Total des ventes * Pays"
+
+#: inc/includes/class-woocommerce-classement-sales.php:428
+msgid "Avg Total Sales -> Country"
+msgstr "Ventes totales moyennes -> Pays"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:179
+msgid "Vendor since"
+msgstr "Vendeur depuis"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:180
+#: inc/includes/class-woocommerce-classement-vendors.php:236
+#: inc/includes/class-woocommerce-classement-shipping.php:177
+#: inc/includes/class-woocommerce-classement-queries.php:317
+#: inc/includes/class-woocommerce-classement-queries.php:380
+#: inc/includes/class-woocommerce-classement-queries.php:556
+msgid "Name"
+msgstr "Nom"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:181
+#: inc/includes/class-woocommerce-classement-vendors.php:237
+#: inc/includes/class-woocommerce-classement-queries.php:318
+#: inc/includes/class-woocommerce-classement-queries.php:379
+#: inc/includes/class-woocommerce-classement-queries.php:557
+msgid "Surname"
+msgstr "Nom de famille"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:183
+#: inc/includes/class-woocommerce-classement-vendors.php:239
+#: inc/includes/class-woocommerce-classement-queries.php:321
+#: inc/includes/class-woocommerce-classement-queries.php:382
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:184
+#: inc/includes/class-woocommerce-classement-vendors.php:240
+#: inc/includes/class-woocommerce-classement-queries.php:322
+#: inc/includes/class-woocommerce-classement-queries.php:383
+#: inc/includes/class-woocommerce-classement-queries.php:559
+#: inc/content/content-plugin.php:68
+msgid "Email"
+msgstr "Courriel"
+
+#: inc/includes/class-woocommerce-classement-vendors.php:235
+msgid "Pending Vendor since"
+msgstr "Vendeur en attente depuis"
+
+#: inc/includes/class-woocommerce-classement-products.php:134
+#: inc/includes/class-woocommerce-classement-products.php:170
+#: inc/includes/class-woocommerce-classement-products.php:208
+#: inc/includes/class-woocommerce-classement-products.php:435
+msgid "No products currently"
+msgstr "Aucun produit actuellement"
+
+#: inc/includes/class-woocommerce-classement-products.php:276
+msgid "No products"
+msgstr "Aucun produit"
+
+#: inc/includes/class-woocommerce-classement-products.php:364
+msgid "Product Date"
+msgstr "Date du produit"
+
+#: inc/includes/class-woocommerce-classement-products.php:365
+msgid "Product Title"
+msgstr "Titre du produit"
+
+#: inc/includes/class-woocommerce-classement-products.php:366
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/includes/class-woocommerce-classement-products.php:367
+#: inc/includes/class-woocommerce-classement-queries.php:640
+#: inc/includes/class-woocommerce-classement-queries.php:760
+msgid "Units Sold"
+msgstr "Unités vendues"
+
+#: inc/includes/class-woocommerce-classement-products.php:368
+#: inc/includes/class-woocommerce-classement-queries.php:641
+#: inc/includes/class-woocommerce-classement-queries.php:761
+msgid "Total Sales"
+msgstr "Total des ventes"
+
+#: inc/includes/class-woocommerce-classement-products.php:396
+#: inc/includes/class-woocommerce-classement-products.php:399
+#: inc/includes/class-woocommerce-classement-queries.php:667
+#: inc/includes/class-woocommerce-classement-queries.php:670
+#: inc/includes/class-woocommerce-classement-queries.php:787
+#: inc/includes/class-woocommerce-classement-queries.php:790
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/includes/class-woocommerce-classement-shipping.php:176
+msgid "Zone"
+msgstr "Zone"
+
+#: inc/includes/class-woocommerce-classement-shipping.php:178
+msgid "Code Location"
+msgstr "Code postal"
+
+#: inc/includes/class-woocommerce-classement-shipping.php:179
+msgid "Location Type"
+msgstr "Type d'emplacement"
+
+#: inc/includes/class-woocommerce-classement-shipping.php:200
+#: inc/includes/class-woocommerce-classement-customers.php:101
+#: inc/includes/class-woocommerce-classement-customers.php:127
+#: inc/includes/class-woocommerce-classement-customers.php:154
+msgid "No results"
+msgstr "Pas de résultats"
+
+#: inc/includes/class-woocommerce-classement-queries.php:189
+msgid "E-mail / Tel"
+msgstr "Courriel / Tel"
+
+#: inc/includes/class-woocommerce-classement-queries.php:191
+msgid "Weight"
+msgstr "Poids"
+
+#: inc/includes/class-woocommerce-classement-queries.php:192
+#: inc/includes/class-woocommerce-classement-orders.php:726
+#: inc/includes/class-woocommerce-classement-orders.php:785
+#: inc/includes/class-woocommerce-classement-orders.php:847
+msgid "Shipping Cost"
+msgstr "Frais de port"
+
+#: inc/includes/class-woocommerce-classement-queries.php:193
+#: inc/includes/class-woocommerce-classement-orders.php:727
+#: inc/includes/class-woocommerce-classement-orders.php:786
+#: inc/includes/class-woocommerce-classement-orders.php:848
+#: inc/content/content-general.php:149
+msgid "Total Tax"
+msgstr "Total des taxes"
+
+#: inc/includes/class-woocommerce-classement-queries.php:195
+msgid "Payment Method / Status"
+msgstr "Méthode de paiement / statut"
+
+#: inc/includes/class-woocommerce-classement-queries.php:316
+#: inc/includes/class-woocommerce-classement-queries.php:378
+msgid "Customer since"
+msgstr "Client depuis"
+
+#: inc/includes/class-woocommerce-classement-queries.php:323
+msgid "Count Orders"
+msgstr "Nombre de commandes"
+
+#: inc/includes/class-woocommerce-classement-queries.php:324
+msgid "Total Spent"
+msgstr "Total dépensé"
+
+#: inc/includes/class-woocommerce-classement-queries.php:325
+#: inc/includes/class-woocommerce-classement-queries.php:351
+msgid "Loyal Customer"
+msgstr "Client fidèle"
+
+#: inc/includes/class-woocommerce-classement-queries.php:354
+msgid "Not again"
+msgstr "Pas encore"
+
+#: inc/includes/class-woocommerce-classement-queries.php:384
+msgid "Customer Bought"
+msgstr "Achat(s) du client"
+
+#: inc/includes/class-woocommerce-classement-queries.php:385
+msgid "Orders Count"
+msgstr "Nombre de commandes"
+
+#: inc/includes/class-woocommerce-classement-queries.php:386
+msgid "Money Spent"
+msgstr "Argent dépensé"
+
+#: inc/includes/class-woocommerce-classement-queries.php:387
+#: inc/includes/class-woocommerce-classement-queries.php:560
+msgid "Count Logins"
+msgstr "Nombre de connections"
+
+#: inc/includes/class-woocommerce-classement-queries.php:457
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: inc/includes/class-woocommerce-classement-queries.php:458
+msgid "Code"
+msgstr "Code"
+
+#: inc/includes/class-woocommerce-classement-queries.php:459
+msgid "Title"
+msgstr "Titre"
+
+#: inc/includes/class-woocommerce-classement-queries.php:460
+msgid "Description"
+msgstr "Description"
+
+#: inc/includes/class-woocommerce-classement-queries.php:461
+msgid "Coupon Amount"
+msgstr "Montant du coupon"
+
+#: inc/includes/class-woocommerce-classement-queries.php:462
+msgid "Discount Type"
+msgstr "Type de remise"
+
+#: inc/includes/class-woocommerce-classement-queries.php:463
+msgid "Minimun Amount"
+msgstr "Montant minimal"
+
+#: inc/includes/class-woocommerce-classement-queries.php:464
+msgid "Usage Limit"
+msgstr "Limite d'utilisation"
+
+#: inc/includes/class-woocommerce-classement-queries.php:642
+#: inc/includes/class-woocommerce-classement-queries.php:762
+msgid "URL Shop Product"
+msgstr "URL du produit boutique"
+
+#: inc/includes/class-woocommerce-classement-queries.php:643
+#: inc/includes/class-woocommerce-classement-queries.php:763
+msgid "URL Admin Product"
+msgstr "URL du produit Admin"
+
+#: inc/includes/class-woocommerce-classement-queries.php:693
+#: inc/includes/class-woocommerce-classement-queries.php:813
+msgid "See"
+msgstr "Voir"
+
+#: inc/includes/class-woocommerce-classement-queries.php:697
+#: inc/includes/class-woocommerce-classement-queries.php:817
+msgid "Edit"
+msgstr "Éditer"
+
+#: inc/includes/class-woocommerce-classement-customers.php:37
+msgid "N / A"
+msgstr "N / A"
+
+#: inc/includes/class-woocommerce-classement-customers.php:68
+msgid "No Users"
+msgstr "Pas d'utilisateurs"
+
+#: inc/includes/class-woocommerce-classement-orders.php:721
+#: inc/includes/class-woocommerce-classement-orders.php:842
+msgid "Customer ID"
+msgstr "ID du client"
+
+#: inc/includes/class-woocommerce-classement-orders.php:722
+#: inc/includes/class-woocommerce-classement-orders.php:781
+#: inc/includes/class-woocommerce-classement-orders.php:843
+msgid "Customer"
+msgstr "Client"
+
+#: inc/includes/class-woocommerce-classement-orders.php:724
+#: inc/includes/class-woocommerce-classement-orders.php:783
+#: inc/includes/class-woocommerce-classement-orders.php:845
+msgid "Order Date"
+msgstr "Date de commande"
+
+#: inc/includes/class-woocommerce-classement-orders.php:725
+#: inc/includes/class-woocommerce-classement-orders.php:784
+#: inc/includes/class-woocommerce-classement-orders.php:846
+msgid "Order Statut"
+msgstr "Statut de la commande"
+
+#: inc/includes/class-woocommerce-classement-orders.php:728
+#: inc/includes/class-woocommerce-classement-orders.php:787
+#: inc/includes/class-woocommerce-classement-orders.php:849
+#: inc/includes/class-woocommerce-classement-paiements.php:47
+#: inc/content/content-shipping.php:35 inc/content/content-general.php:196
+msgid "Total"
+msgstr "Total"
+
+#: inc/includes/class-woocommerce-classement-orders.php:780
+msgid "Classement"
+msgstr "Classement"
+
+#: inc/includes/class-woocommerce-classement-paiements.php:45
+msgid "Payment Methods"
+msgstr "Méthodes de paiement"
+
+#: inc/includes/class-woocommerce-classement-paiements.php:46
+msgid "Number of Order(s)"
+msgstr "Nombre de commande (s)"
+
+#: inc/options/class-woocommerce-classement-options.php:22
+msgid "<i class=\"fa fa-pencil\" aria-hidden=\"true\"></i> Options"
+msgstr "<i class=\"fa fa-pencil\" aria-hidden=\"true\"></i> Options"
+
+#: inc/options/class-woocommerce-classement-options.php:29
+msgid "<i class=\"fc_icons fa fa-google-wallet\"></i> Sales Targets"
+msgstr "<i class=\"fc_icons fa fa-google-wallet\"></i> Objectifs de vente"
+
+#: inc/options/class-woocommerce-classement-options.php:36
+msgid "<i class=\"fc_icons fa fa-user\"></i> Users"
+msgstr "Utilisteurs"
+
+#: inc/options/class-woocommerce-classement-options.php:43
+msgid "<i class=\"fc_icons fa fa-cart\"></i> Products"
+msgstr "Produits"
+
+#: inc/options/class-woocommerce-classement-options.php:50
+msgid "<i class=\"fc_icons fa fa-users\"></i> Vendors"
+msgstr "Vendeurs"
+
+#: inc/options/class-woocommerce-classement-options.php:57
+msgid "<i class=\"fc_icons fa fa-google\"></i> Google API"
+msgstr "<i class=\"fc_icons fa fa-google\"></i> Google API"
+
+#: inc/options/class-woocommerce-classement-options.php:66
+msgid "Color of Graphics (Objectives)"
+msgstr "Couleur des graphiques (objectifs)"
+
+#: inc/options/class-woocommerce-classement-options.php:74
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Enter an estimated amount of sales per "
+"month.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tMonthly Sales Limit (Charts)"
+msgstr ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Enter an estimated amount of sales per "
+"month.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tLimite des ventes mensuelles (graphiques)"
+
+#: inc/options/class-woocommerce-classement-options.php:86
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Enter an estimated amount of sales per year."
+"\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tAnnual Sales limit (Charts)"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Enter an estimated amount of sales per year.\" data-balloon-"
+"pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tLimite des ventes annuelles (graphiques)"
+
+#: inc/options/class-woocommerce-classement-options.php:98
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Set a sales target per year.\" data-balloon-"
+"pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tSales Objectives"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Set a sales target per year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectifs de ventes"
+
+#: inc/options/class-woocommerce-classement-options.php:110
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Set as target a number of new customers per "
+"year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tCustomer Objectives"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Set as target a number of new customers per year.\" data-"
+"balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectifs clients"
+
+#: inc/options/class-woocommerce-classement-options.php:122
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Give as a target a number of orders per "
+"year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectives Orders"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Give as a target a number of orders per year.\" data-balloon-"
+"pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectifs Commandes"
+
+#: inc/options/class-woocommerce-classement-options.php:134
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Give as a target a number of new coupons "
+"per year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tCoupon Targets"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Give as a target a number of new coupons per year.\" data-"
+"balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectifs Coupons"
+
+#: inc/options/class-woocommerce-classement-options.php:146
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Set a target for a delivery amount per year."
+"\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectives Shipping"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Set a target for a delivery amount per year.\" data-balloon-"
+"pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tObjectifs Livraison"
+
+#: inc/options/class-woocommerce-classement-options.php:158
+msgid "Chart for 2017 ?"
+msgstr "Graphique pour 2017 ?"
+
+#: inc/options/class-woocommerce-classement-options.php:166
+msgid "Chart for 2016 ?"
+msgstr "Graphique pour 2016 ?"
+
+#: inc/options/class-woocommerce-classement-options.php:174
+msgid "Chart for 2015 ?"
+msgstr "Graphique pour 2015 ?"
+
+#: inc/options/class-woocommerce-classement-options.php:182
+msgid "Annual Comparisons ?"
+msgstr "Comparaisons annuelles ?"
+
+#: inc/options/class-woocommerce-classement-options.php:190
+msgid "Comments for Employees"
+msgstr "Commentaires pour les employés"
+
+#: inc/options/class-woocommerce-classement-options.php:198
+msgid "Choice of color of Graphs"
+msgstr "Choix de couleur des graphiques"
+
+#: inc/options/class-woocommerce-classement-options.php:206
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"This chart shows the number of customers "
+"and vendors registred per year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tShow Customer Chart by Year ? (Top Graphs)"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"This chart shows the number of customers and vendors "
+"registred per year.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tAfficher le graphique du client par année? (Graphiques)"
+
+#: inc/options/class-woocommerce-classement-options.php:219
+msgid ""
+"\n"
+"\t\t<button style=\"background:none; border:0\" data-balloon-"
+"length=\"medium\" data-balloon=\"Number of orders desired to become Customer "
+"loyalty. Ex: 3. If the customer has or more than three orders, in the "
+"customer table it will be declared customer faithful.\" data-balloon-"
+"pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tCount Orders to be a Loyal Customer ( be > 1 )"
+msgstr ""
+"<button style=\"background:none; border:0\" data-balloon-length=\"medium\" "
+"data-balloon=\"Number of orders desired to become Customer loyalty. Ex: 3. "
+"If the customer has or more than three orders, in the customer table it will "
+"be declared customer faithful.\" data-balloon-pos=\"right\">\n"
+"\t\t<i class=\"fa fa-question-circle\" aria-hidden=\"true\" style=\"font-"
+"size:13px;display:inline-block\">\n"
+"\t\t</i></button>\n"
+"\t\tCompte des commandes pour être un client fidèle (Doit être > 1)"
+
+#: inc/options/class-woocommerce-classement-options.php:233
+msgid "Activate Product Views System"
+msgstr "Activer le système de vues produit"
+
+#: inc/options/class-woocommerce-classement-options.php:241
+msgid "Show Views in Product Column"
+msgstr "Montrer les vues dans une colonne produit "
+
+#: inc/options/class-woocommerce-classement-options.php:249
+msgid "Have you a product meta key for views ?"
+msgstr "Avez vous une meta clé vue ?"
+
+#: inc/options/class-woocommerce-classement-options.php:259
+msgid "Show Vendors Statistics ?"
+msgstr "Afficher les statistiques des vendeurs ?"
+
+#: inc/options/class-woocommerce-classement-options.php:269
+msgid "Enter your Google API Key"
+msgstr "Entrez votre clé API Google"
+
+#: inc/options/class-woocommerce-classement-options.php:483
+msgid "Configure statistical options Via Woocommerce Classement"
+msgstr "Configurer les options statistiques via Woocommerce Classement"
+
+#: inc/options/class-woocommerce-classement-options.php:487
+msgid "Configure the objectives of your Company"
+msgstr "Configurez les objectifs de votre entreprise"
+
+#: inc/options/class-woocommerce-classement-options.php:492
+msgid "Configure options for Customers - Coming Soon"
+msgstr "Configurer les options pour les clients - À venir"
+
+#: inc/options/class-woocommerce-classement-options.php:497
+msgid "Configuration of Products Settings"
+msgstr "Configuration des paramètres produits"
+
+#: inc/options/class-woocommerce-classement-options.php:501
+msgid "Configure yours Vendors Settings"
+msgstr "Configurer les options Vendeurs"
+
+#: inc/options/class-woocommerce-classement-options.php:505
+msgid "Configure Google API for Woocommerce Classement => Google Map"
+msgstr "Configurer l'API Google pour Woocommerce Classement => Google Map"
+
+#: inc/options/class-woocommerce-classement-options.php:521
+msgid "Woocommerce Classement License"
+msgstr "License Woocommerce Classement"
+
+#: inc/options/class-woocommerce-classement-options.php:583
+#: inc/content/content-statistics.php:21
+msgid "General"
+msgstr "Général"
+
+#: inc/options/class-woocommerce-classement-options.php:613
+msgid "Google API"
+msgstr "API Google"
+
+#: inc/content/content-paiements.php:20
+msgid "Orders -> Statut -> Completed"
+msgstr "Commandes -> Statut -> Terminées"
+
+#: inc/content/content-paiements.php:49 inc/content/content-general.php:264
+msgid "Paiements Methods"
+msgstr "Méthodes de paiements"
+
+#: inc/content/content-coupons.php:35
+msgid "Total Coupons"
+msgstr "Total des coupons"
+
+#: inc/content/content-coupons.php:36
+msgid "This week"
+msgstr "Cette semaine"
+
+#: inc/content/content-coupons.php:37 inc/content/content-orders.php:43
+#: inc/content/content-general.php:228
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: inc/content/content-coupons.php:38
+msgid "Published"
+msgstr "Publié(es)"
+
+#: inc/content/content-coupons.php:39
+msgid "Pending"
+msgstr "En attente"
+
+#: inc/content/content-orders.php:22 inc/content/content-orders.php:245
+#: inc/content/content-general.php:293
+msgid "Last orders"
+msgstr "Dernières commandes"
+
+#: inc/content/content-orders.php:39 inc/content/content-orders.php:130
+msgid "Completed"
+msgstr "Complétées"
+
+#: inc/content/content-orders.php:41 inc/content/content-vendors.php:39
+#: inc/content/content-general.php:230
+msgid "This Month"
+msgstr "Ce mois-ci"
+
+#: inc/content/content-orders.php:42
+msgid "This Week"
+msgstr "Cette semaine"
+
+#: inc/content/content-orders.php:44 inc/content/content-orders.php:75
+msgid "List -> -30 Days"
+msgstr "Liste -> -30 jours"
+
+#: inc/content/content-orders.php:45 inc/content/content-orders.php:86
+msgid "List -> Week"
+msgstr "Liste -> Semaine"
+
+#: inc/content/content-orders.php:58 inc/content/content-orders.php:64
+#: inc/content/content-products.php:83
+msgid "Show Me"
+msgstr "Ouvrir"
+
+#: inc/content/content-orders.php:80 inc/content/content-orders.php:91
+#: inc/content/content-products.php:95 inc/content/content-general.php:73
+msgid "Close me!"
+msgstr "Fermer"
+
+#: inc/content/content-orders.php:114
+msgid "General Statistics"
+msgstr "Statistiques générales"
+
+#: inc/content/content-orders.php:131
+msgid "In progress"
+msgstr "En cours"
+
+#: inc/content/content-orders.php:132
+msgid "On Hold"
+msgstr "En attente"
+
+#: inc/content/content-orders.php:133
+msgid "Waiting for payment"
+msgstr "En attente de paiement"
+
+#: inc/content/content-orders.php:134 inc/content/content-graphs.php:867
+msgid "Refunded"
+msgstr "Remboursées"
+
+#: inc/content/content-orders.php:135
+msgid "Failed"
+msgstr "Échouées"
+
+#: inc/content/content-orders.php:136
+msgid "Cancelled"
+msgstr "Annulées"
+
+#: inc/content/content-orders.php:141 inc/content/content-orders.php:148
+#: inc/content/content-orders.php:155 inc/content/content-orders.php:162
+#: inc/content/content-orders.php:169 inc/content/content-orders.php:176
+#: inc/content/content-orders.php:183 inc/content/content-graphs.php:1086
+#: inc/content/content-graphs.php:1156
+msgid "Sales :"
+msgstr "Ventes :"
+
+#: inc/content/content-orders.php:144 inc/content/content-orders.php:151
+#: inc/content/content-orders.php:158 inc/content/content-orders.php:165
+#: inc/content/content-orders.php:172 inc/content/content-orders.php:179
+#: inc/content/content-orders.php:186
+msgid "Quantity :"
+msgstr "Quantité :"
+
+#: inc/content/content-orders.php:207
+msgid "Count Orders -> Years"
+msgstr "Nombres de Commandes -> Années"
+
+#: inc/content/content-orders.php:215
+msgid "Count Orders -> Months"
+msgstr "Nombres de Commandes -> Mois"
+
+#: inc/content/content-plugin.php:16
+msgid "Compatibility"
+msgstr "Compatibilité"
+
+#: inc/content/content-plugin.php:37
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/content/content-plugin.php:42
+msgid "Viamultimedia - VHW Canada"
+msgstr "Viamultimedia - VHW Canada"
+
+#: inc/content/content-plugin.php:53
+msgid "The Plugin"
+msgstr "Le Plugin"
+
+#: inc/content/content-plugin.php:63
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: inc/content/content-plugin.php:67
+msgid "Want to contact us ?"
+msgstr "Vous voulez nous contacter ?"
+
+#: inc/content/content-products.php:37
+msgid "Total Products"
+msgstr "Produits totaux"
+
+#: inc/content/content-products.php:38
+msgid "Total Sold Items"
+msgstr "Total items vendus"
+
+#: inc/content/content-products.php:39
+msgid "Sold Today"
+msgstr "Ventes aujourd'hui"
+
+#: inc/content/content-products.php:40
+msgid "Sold This Week"
+msgstr "Ventes cette semaine"
+
+#: inc/content/content-products.php:41
+msgid "Sold - 30 Days"
+msgstr "Ventes - 30 jours"
+
+#: inc/content/content-products.php:42
+msgid "Published this Week"
+msgstr "Publiés cette semaine"
+
+#: inc/content/content-products.php:43
+msgid "Published Today"
+msgstr "Publiés aujourd'hui"
+
+#: inc/content/content-products.php:44
+msgid "Number Categories"
+msgstr "Nombre de catégories"
+
+#: inc/content/content-products.php:45
+msgid "Count Products in Stock"
+msgstr "Compte produits en stock"
+
+#: inc/content/content-products.php:46
+msgid "Count Products out Stock"
+msgstr "Compte produits sans stock"
+
+#: inc/content/content-products.php:47 inc/content/content-products.php:90
+msgid "Number of Products / Categories"
+msgstr "Nombre de produits / Catégories"
+
+#: inc/content/content-products.php:115
+msgid "Products -> Best Sellers"
+msgstr "Produits -> Meilleurs vendeurs"
+
+#: inc/content/content-graphs.php:106 inc/content/content-graphs.php:215
+#: inc/content/content-graphs.php:326 inc/content/content-graphs.php:438
+#: inc/content/content-graphs.php:865 inc/content/content-graphs.php:969
+msgid "Résults :"
+msgstr "Résultats :"
+
+#: inc/content/content-graphs.php:106 inc/content/content-graphs.php:215
+#: inc/content/content-graphs.php:326 inc/content/content-graphs.php:438
+msgid "Monthly comparison of Turnover"
+msgstr "Comparaison mensuelle du chiffre d'affaires"
+
+#: inc/content/content-graphs.php:106
+msgid "2018"
+msgstr "2018"
+
+#: inc/content/content-graphs.php:215
+msgid "2017"
+msgstr "2017"
+
+#: inc/content/content-graphs.php:326
+msgid "2016"
+msgstr "2016"
+
+#: inc/content/content-graphs.php:438
+msgid "2015"
+msgstr "2015"
+
+#: inc/content/content-graphs.php:471 inc/content/content-general.php:116
+msgid "Annual Sales Growth"
+msgstr "Croissance annuelle des ventes"
+
+#: inc/content/content-graphs.php:480
+msgid "Monthly Sales Growth"
+msgstr "Croissance mensuelle des ventes"
+
+#: inc/content/content-graphs.php:490
+msgid "Daily Sales Growth"
+msgstr "Croissance quotidienne des ventes"
+
+#: inc/content/content-graphs.php:499
+msgid "Daily Orders Growth"
+msgstr "Croissance quotidienne commandes"
+
+#: inc/content/content-graphs.php:512
+msgid "Averages"
+msgstr "Moyennes"
+
+#: inc/content/content-graphs.php:528
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:38
+msgid "Avg Price -> Order"
+msgstr "Prix moyen / Commande"
+
+#: inc/content/content-graphs.php:529
+msgid "Avg Products -> Customer"
+msgstr "Moyenne de produits / Client"
+
+#: inc/content/content-graphs.php:530
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:62
+msgid "Avg Products -> Order"
+msgstr "Moyenne de produits / Commande"
+
+#: inc/content/content-graphs.php:531
+msgid "Avg Shipping -> Order"
+msgstr "Livraison moyenne / Commande"
+
+#: inc/content/content-graphs.php:532
+msgid "Avg Order -> Day"
+msgstr "Commandes moyennes / Jour"
+
+#: inc/content/content-graphs.php:639 inc/content/content-vendors.php:38
+msgid "This Year"
+msgstr "Cette année"
+
+#: inc/content/content-graphs.php:691
+msgid "Last Year"
+msgstr "L'année dernière"
+
+#: inc/content/content-graphs.php:702 inc/content/content-statistics.php:33
+msgid "Sales -> Years"
+msgstr "Ventes -> Années"
+
+#: inc/content/content-graphs.php:714
+msgid "Sales -> Country"
+msgstr "Ventes -> Pays"
+
+#: inc/content/content-graphs.php:729 inc/content/content-graphs.php:1003
+msgid "Customers -> Line Charts"
+msgstr "Clients -> Graphiques linéaires"
+
+#: inc/content/content-graphs.php:741 inc/content/content-vendors.php:75
+msgid "Vendors -> Line Charts"
+msgstr "Vendeurs -> Graphique linéaire"
+
+#: inc/content/content-graphs.php:758 inc/content/content-graphs.php:795
+msgid "Orders -> Repartition"
+msgstr "Commandes -> Répartition"
+
+#: inc/content/content-graphs.php:865
+msgid "Comparison of sales over the last five years"
+msgstr "Comparaison des ventes au cours des cinq dernières années"
+
+#: inc/content/content-graphs.php:866 inc/content/content-graphs.php:970
+msgid "Green :"
+msgstr "Vert :"
+
+#: inc/content/content-graphs.php:866
+msgid "Finished"
+msgstr "Finies"
+
+#: inc/content/content-graphs.php:867 inc/content/content-graphs.php:971
+msgid "Red :"
+msgstr "Rouge :"
+
+#: inc/content/content-graphs.php:900 inc/content/content-statistics.php:54
+msgid "Years of Customers / Vendors Registration"
+msgstr "Date d'enregistrement des Clients / Vendeurs"
+
+#: inc/content/content-graphs.php:969
+msgid ""
+"Comparison Years of Customers / Vendors Registration over the last five years"
+msgstr ""
+"Années de comparaison des clients / Vendeurs des enregistrements au cours "
+"des cinq dernières années"
+
+#: inc/content/content-graphs.php:970 inc/content/content-graphs.php:971
+msgid "Registred"
+msgstr "Enregistrés"
+
+#: inc/content/content-graphs.php:1084
+msgid "Objectives :"
+msgstr "Objectifs"
+
+#: inc/content/content-graphs.php:1084 inc/content/content-graphs.php:1154
+msgid "Results of your Objectives (% Variation)"
+msgstr "Résultats des objectifs (% Variation)"
+
+#: inc/content/content-graphs.php:1087 inc/content/content-graphs.php:1157
+msgid "Customers :"
+msgstr "Clients"
+
+#: inc/content/content-graphs.php:1088 inc/content/content-graphs.php:1158
+msgid "Orders :"
+msgstr "Commandes"
+
+#: inc/content/content-graphs.php:1089 inc/content/content-graphs.php:1159
+msgid "Coupons :"
+msgstr "Coupons"
+
+#: inc/content/content-graphs.php:1090 inc/content/content-graphs.php:1160
+msgid "Shipping :"
+msgstr "Livraison :"
+
+#: inc/content/content-customers.php:20
+msgid "Total Customers"
+msgstr "Total des clients"
+
+#: inc/content/content-customers.php:29
+msgid "Registered this Year"
+msgstr "Enregistrés cette année"
+
+#: inc/content/content-customers.php:38
+msgid "Registered this Month"
+msgstr "Enregistrés ce mois-ci"
+
+#: inc/content/content-customers.php:47
+msgid "Registered today"
+msgstr "Enregistrés aujourd'hui"
+
+#: inc/content/content-customers.php:62
+msgid "Registered -> Years"
+msgstr "Enregistrés -> Années"
+
+#: inc/content/content-customers.php:70
+msgid "Registered -> Months"
+msgstr "Enregistrés ->Mois"
+
+#: inc/content/content-customers.php:78
+msgid "Registered -> - 7 Days"
+msgstr "Enregistrés -> - 7 Jours"
+
+#: inc/content/content-customers.php:129
+msgid "Last Customer Registred"
+msgstr "Dernier client enregistré"
+
+#: inc/content/content-customers.php:130
+msgid "Last Vendor Registred"
+msgstr "Dernier fournisseur enregistré"
+
+#: inc/content/content-customers.php:131
+msgid "Last Customer logged"
+msgstr "Dernier client connecté"
+
+#: inc/content/content-customers.php:132
+msgid "Statut Customers logged"
+msgstr "Statut Clients enregistrés"
+
+#: inc/content/content-customers.php:133
+msgid "Count Vendors logged"
+msgstr "Nombre de vendeurs connectés"
+
+#: inc/content/content-customers.php:171
+msgid "Customers List - Last orders"
+msgstr "Liste des clients - Dernières commandes"
+
+#: inc/content/content-queries.php:65
+msgid "Customers online"
+msgstr "Clients en ligne"
+
+#: inc/content/content-queries.php:93
+msgid "List Customers -> Registration Date"
+msgstr "Liste des clients -> Date d'inscription"
+
+#: inc/content/content-queries.php:147
+msgid "Customer -> Order by count connections"
+msgstr "Client -> Commander par nombre de connexions"
+
+#: inc/content/content-queries.php:186
+msgid "Customer -> Count orders and Customer loyalty"
+msgstr "Client -> Compte commandes et Clients fidèles"
+
+#: inc/content/content-queries.php:229
+msgid "Total Orders -> Country"
+msgstr "Total des commandes -> Pays"
+
+#: inc/content/content-queries.php:267
+msgid "All Orders -> Completed"
+msgstr "Commandes -> Completées"
+
+#: inc/content/content-queries.php:305
+msgid "All Orders -> In processing"
+msgstr "Commandes -> En cours de traitement"
+
+#: inc/content/content-queries.php:333
+msgid "All Orders -> Refunded"
+msgstr "Commandes -> Remboursées"
+
+#: inc/content/content-queries.php:361
+msgid "All Orders -> In pending payment"
+msgstr "Commandes -> En attente de paiement"
+
+#: inc/content/content-queries.php:389
+msgid "All Orders -> On hold"
+msgstr "Commandes -> En attente"
+
+#: inc/content/content-queries.php:418
+msgid "All Orders -> Failed"
+msgstr "Commandes -> Échec"
+
+#: inc/content/content-queries.php:446
+msgid "All Orders -> Cancelled"
+msgstr "Commandes -> Annulées"
+
+#: inc/content/content-queries.php:480
+msgid "List of the last products ordered"
+msgstr "Liste des derniers produits commandés"
+
+#: inc/content/content-queries.php:615
+msgid "Products Best Sellers -> Count Sales"
+msgstr "Produits meilleures ventes ->Nombre"
+
+#: inc/content/content-queries.php:643
+msgid "Products Best Sellers -> Total Price"
+msgstr "Produits meilleures ventes -> Prix total"
+
+#: inc/content/content-queries.php:676 inc/content/content-queries.php:704
+msgid "Vendors Listing"
+msgstr "Liste des Vendeurs"
+
+#: inc/content/content-queries.php:737
+msgid "Shipping Zones"
+msgstr "Zones d'expédition"
+
+#: inc/content/content-queries.php:771
+msgid "Listing Coupons"
+msgstr "Liste des coupons"
+
+#: inc/content/content-statistics.php:40
+msgid "Sales -> Repartition Years"
+msgstr "Ventes -> Années de répartition"
+
+#: inc/content/content-statistics.php:47
+msgid "Sales -> Months"
+msgstr "Ventes -> Mois"
+
+#: inc/content/content-shipping.php:19
+msgid "Total Shipping"
+msgstr "Expédition totale"
+
+#: inc/content/content-shipping.php:36
+msgid "Total Shipping Tax"
+msgstr "Taxe de livraison totale"
+
+#: inc/content/content-vendors.php:37
+msgid "Total Vendors"
+msgstr "Total Vendeurs"
+
+#: inc/content/content-vendors.php:40
+msgid "This Day"
+msgstr "Ce jour"
+
+#: inc/content/content-vendors.php:41
+msgid "Total Pending Vendors"
+msgstr "Total des vendeurs en attente"
+
+#: inc/content/content-general.php:22
+msgid "Sales Report, by Statut"
+msgstr "Rapport de vente, par Statut"
+
+#: inc/content/content-general.php:23
+msgid "- in -"
+msgstr "en"
+
+#: inc/content/content-general.php:32
+msgid "Performance -> Sales -> Countries"
+msgstr "Performance -> Ventes -> Pays"
+
+#: inc/content/content-general.php:64 inc/content/content-general.php:69
+msgid "Performance -> Sales -> Months"
+msgstr "Performance -> Ventes -> Mois"
+
+#: inc/content/content-general.php:97
+msgid "New Orders"
+msgstr "Nouvelles commandes"
+
+#: inc/content/content-general.php:133
+msgid "Total Revenue"
+msgstr "Revenu total"
+
+#: inc/content/content-general.php:141
+msgid "Todays Sales"
+msgstr "Ventes ce jour"
+
+#: inc/content/content-general.php:168
+msgid "Visits on Shop"
+msgstr "Produits visités"
+
+#: inc/content/content-general.php:229
+msgid "Yesterday"
+msgstr "Hier"
+
+#: inc/content/content-general.php:231
+msgid "Last Month"
+msgstr "Le mois dernier"
+
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:12
+msgid "<p>Some results of your online shop ...</p>"
+msgstr "<p>Quelques résultats de votre boutique en ligne ...</p>"
+
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:32
+msgid "Customers this Year"
+msgstr "Clients cette année"
+
+#: inc/admin/dashboard/class-woocommerce-classement-dashboard.php:50
+msgid "Connections"
+msgstr "Connections"
+
+#. Name of the plugin
+msgid "Woocommerce Classement"
+msgstr "Woocommerce Classement"
+
+#. Description of the plugin
+msgid "Plugin featuring statistics from your Woocommerce Online Store."
+msgstr ""
+"Extension avec les statistiques de votre boutique en ligne Woocommerce."
+
+#. URI of the plugin
+msgid "https://viamultimedia.ca/"
+msgstr "https://viamultimedia.ca/"
+
+#. Author of the plugin
+msgid "Tony Breboin"
+msgstr "Tony Breboin"
+
+#. Author URI of the plugin
+msgid "https://www.viamultimedia.ca/"
+msgstr "https://www.viamultimedia.ca/"
